@@ -1,0 +1,13 @@
+yahoo
+google
+youtube
+microsoft
+msn
+bing
+facebook
+twitter
+wikipedia
+quora
+wordpress
+blogspot
+.gov
